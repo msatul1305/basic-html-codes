@@ -1,0 +1,15 @@
+!{padding:10px;}
+@media only screen and (max-width:300px){
+p{
+	/*display:none;*/
+	background-color:blue;
+}
+}
+
+.head{color:red;font:50px;}
+.title{color:red;}
+font{color:red;overflow:auto;}
+h1{color:red;}
+h2{color:blue;}
+h3{color:purple;}
+	p{color:green;}
